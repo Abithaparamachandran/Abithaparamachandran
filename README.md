@@ -72,11 +72,6 @@ Welcome to my developer portfolio! I am a dedicated and skilled **Full Stack Dev
 - Enthusiastic about automating tasks and improving backend system efficiency.
 
 ---
-## 💼 Projects
-
-- 🔗 [IITM LDAP User Management System](https://github.com/Abithaparamachandran/IITM-ldap.git)
-- 🔗 [Hotel Booking System with Payment Integration](https://github.com/Abithaparamachandran/Hotel-Booking-System-with-Payment-Integration.git)
----
 
 ## 📫 Contact
 

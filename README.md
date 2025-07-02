@@ -77,6 +77,7 @@ Welcome to my developer portfolio! I am a dedicated and skilled **Full Stack Dev
 
 - 📧 Email: abithapram@gmail.com
 - 📞 Phone: +91 8072772283
+- 🌐 LinkedIn: linkedin.com/in/abitha-p-38562b22a
 - 📍 Location: Kanyakumari, Tamil Nadu, India
 
 ---
